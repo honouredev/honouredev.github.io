@@ -1,0 +1,80 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: 'Outfit', sans-serif;
+}
+
+body{
+	background-color: hsl(217,54%,11%);
+	background-size: contain;
+}
+
+.main-section {
+	background-color: hsl(216 50% 16%);
+	width: 250px;
+	height: 450px;
+	margin: 50px auto;
+	border-radius: 3%;
+}
+
+div {
+	padding: 10px;
+}
+
+#clock{
+	width: 12px;
+	margin-left: 50px;
+	padding-top: 15px;
+	}
+hr { 
+	margin: 15px;
+	border: 1px groove  hsl(215, 32%, 27%);
+}
+
+.equilibrium{
+	width: 230px;
+	margin: 2px 0px;
+	padding: 5px;
+	border-radius: 5%;
+}
+#created{
+	width: 25px;
+	margin: 3px;
+	border-style:solid;
+	border-color: hsl(0, 0%, 100%);
+	border-width: 1px;
+	border-radius: 50%;
+	margin-bottom: 7px;
+}
+#create{
+	font-size: 12px;
+	text-indent: 5px;
+	color: hsl(215, 51%, 70%);
+	position: absolute;
+	top: 65%;
+}
+
+.text{ 
+	color: white;
+	font-size: 15px;
+	margin-top: 3px;
+}
+#balance{
+	font-size: 13px;
+	color: hsl(215, 51%, 70%);
+	padding-top: 7px;
+}
+#days{
+	color: hsl(215, 51%, 70%);
+	font-size: 12px;
+	margin-left: 3px;
+	padding: 2px;
+}
+#eth{
+	color: cyan;
+	padding: 7px;
+	font-size:12px;
+	
+}
+
